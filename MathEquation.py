@@ -17,6 +17,6 @@ def mathEquation():
             break
         #print(i)
         i += 1
-    print("The answer is  " + str(round(eval(mathString),2)))
+    print("The answer is " + str(round(eval(mathString),2)))
 
 mathEquation()
